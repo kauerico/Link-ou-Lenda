@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "nome": "Rambo - Programado para Matar",
+    "categoria": "Ação",
+    "descricao": "Um veterano da Guerra do Vietnã usa todo seu treinamento e agressividade exercitada nos campos de batalha quando é preso e torturado por policiais.",
+    "imagem": "assets/rambo.jpg",
+    "fontes": [
+      { "nome": "Mercado Livre", "url": "https://www.netflix.com/watch/70017963?source=35", "tipo": "Oficial" },
+      { "nome": "TokyVideo", "url": "https://www.tokyvideo.com/video/rambo-programado-para-matar-1982-acao-aventura-1h-33m", "tipo": "Alternativo" }
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Ted",
+    "categoria": "Comédia",
+    "descricao": "Quando criança, John desejou que seu ursinho Ted ganhasse vida e, surpreendentemente, foi atendido. Porém, agora que é adulto, ele precisa lidar com as consequências de seu pedido, já que Ted não vai parar de atormentar a sua vida.",
+    "imagem": "assets/ted.jpg",
+    "fontes": [
+      { "nome": "Assistir", "url": "https://assistir.biz/filme/ted", "tipo": "Alternativo" },
+      { "nome": "Netflix", "url": "https://www.netflix.com/watch/70218756?source=35", "tipo": "Oficial" }
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Invocação do Mal",
+    "categoria": "Terror",
+    "descricao": "Investigadores paranormais trabalham para ajudar uma família aterrorizada por uma presença sombria.",
+    "imagem": "assets/invocacao-do-mal.jpeg",
+    "fontes": [
+      { "nome": "Max", "url": "https://www.max.com/movies/d1b146e9-7426-4463-804d-3ca656e38492?utm_source=universal_search", "tipo": "Oficial" },
+      { "nome": "Pobreflix", "url": "https://pobreflixtv.lat/assistir-invocacao-do-mal-dublado-online-165/", "tipo": "Alternativo" }
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Homem-Aranha no Aranhaverso",
+    "categoria": "Animação",
+    "descricao": "Miles Morales se torna o Homem-Aranha de sua realidade, cruzando com outras cinco versões.",
+    "imagem": "assets/aranhaverso.jpeg",
+    "fontes": [
+      { "nome": "Netflix", "url": "https://www.netflix.com/watch/81002747?source=35", "tipo": "Oficial" }, 
+      { "nome": "TokyVideo", "url": "https://www.tokyvideo.com/br/video/homem-aranha-atraves-do-aranhaverso-2023-fogaca", "tipo": "Alternativo" }
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Matrix",
+    "categoria": "Ficção Científica",
+    "descricao": "Um hacker descobre que sua realidade é uma simulação e se junta a uma rebelião para libertar a humanidade.",
+    "imagem": "assets/Matrix.jpeg",
+    "fontes": [
+      { "nome": "Max", "url": "https://www.max.com/movies/012cacbd-5893-4379-b7a6-d3737c61d4b5?utm_source=universal_search", "tipo": "Oficial" },
+      { "nome": "TokyVideo", "url": "https://www.tokyvideo.com/br/video/matrix-1999-cineplus", "tipo": "Alternativo" }
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "The Batman",
+    "categoria": "Herói",
+    "descricao": "Após dois anos espreitando as ruas como Batman, Bruce Wayne se encontra nas profundezas mais sombrias de Gotham City. Com poucos aliados confiáveis, o vigilante solitário se estabelece como a personificação da vingança para a população.",
+    "imagem": "assets/Batman.jpg",
+    "fontes": [
+      { "nome": "Max", "url": "https://www.max.com/movies/dfa50804-e6f6-4fa2-a732-693dbc50527b?utm_source=universal_search", "tipo": "Oficial" },
+      { "nome": "Vizer.tv", "url": "https://novizer.com/filme/online/batman-online", "tipo": "Alternativo" }
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "O Senhor dos Anéis: A Sociedade do Anel",
+    "categoria": "Fantasia",
+    "descricao": "Um jovem hobbit herda um anel antigo e perigoso, e precisa embarcar em uma jornada para destruí-lo.",
+    "imagem": "assets/senhor-dos-aneis.jpg",
+    "fontes": [
+      { "nome": "Max", "url": "https://www.max.com/movies/fb9f961f-6302-4776-91d7-f1b7a69fb61d?utm_source=universal_search", "tipo": "Oficial" },
+      { "nome": "TokyVideo", "url": "https://www.tokyvideo.com/video/o-senhor-dos-aneis-a-sociedade-do-anel-2001-720p-versao-estendida-210gji", "tipo": "Alternativo" }
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Shrek",
+    "categoria": "Animação",
+    "descricao": "Um ogro mal-humorado tem sua vida invadida por personagens de contos de fadas e faz um acordo para resgatar uma princesa.",
+    "imagem": "assets/shrek.jpeg",
+    "fontes": [
+      { "nome": "Netflix", "url": "https://www.netflix.com/watch/60020686?source=35", "tipo": "Oficial" },
+      { "nome": "TokyVideo", "url": "https://www.tokyvideo.com/video/shrek-2001-vini7xg", "tipo": "Alternativo" }
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "A Baleia",
+    "categoria": "Drama",
+    "descricao": "Homem obeso e solitário busca se reconectar com filha adolescente em uma última chance de redenção.",
+    "imagem": "assets/baleia.jpeg",
+    "fontes": [
+      { "nome": "Netflix", "url": "https://www.netflix.com/watch/81630891?source=35", "tipo": "Oficial" },
+      { "nome": "Vizer.tv", "url": "https://novizer.com/filme/online/a-baleia", "tipo": "Alternativo" }
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "O Farol",
+    "categoria": "Suspense",
+    "descricao": "No final do século 19, um novo zelador chega a uma remota ilha na Nova Inglaterra para ajudar o faroleiro local, mas o isolamento causa tensão na convivência entre os dois homens. Entre tempestades e goles de querosene, o novato tenta desvendar os mistérios que existem nas histórias de pescador de seu chefe.",
+    "imagem": "assets/farol.jpg",
+    "fontes": [
+      { "nome": "Amazon Prime Video", "url": "https://www.primevideo.com/dp/amzn1.dv.gti.eab84e4b-1bcb-1678-eb15-4af61e8c54d2?autoplay=0&ref_=atv_cf_strg_wb", "tipo": "Oficial" },
+      { "nome": "The Night Séries", "url": "https://thenightseriesbr.com/filme/online/o-farol/", "tipo": "Alternativo" }
+    ]
+  }
+]

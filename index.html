@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Link ou lenda</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <header class="cabecalho">
+      <h1>Link ou Lenda</h1>
+      <p class="subtitulo">Te ajudando no aperto</p>
+    </header>
+
+    <div class="navegacao">
+      <input type="text" id="pesquisa" placeholder="Pesquisar filmes" onkeyup="pesquisar(this.value)">
+      <select id="filtro" onchange="filtrarPorCategoria(this.value)">
+        <option value="Ação">Ação</option>
+        <option value="Comédia">Comédia</option>
+        <option value="Terror">Terror</option>
+        <option value="Animação">Animação</option>
+        <option value="Ficção Científica">Ficção Científica</option>
+        <option value="Herói">Herói</option>
+      </select>
+
+    <!-- Botão de limpar -->
+    <button onclick="limparFiltros()">Limpar</button>
+    </div>
+
+    <div class="conteudo-wrapper">
+      <main class="conteudo-principal">
+        <!-- Cards serão gerados dinamicamente pelo JavaScript -->
+        <div class="grid">
+          <div class="box box1"></div>
+          <div class="box box2"></div>
+          <div class="box box3"></div>
+          <div class="box box4"></div>
+        </div>
+        <div class="center-box"></div>
+      </main>
+    </div>
+
+    <footer class="rodape">
+      <p>&copy; Link ou Lenda</p>
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
