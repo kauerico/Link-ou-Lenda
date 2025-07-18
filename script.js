@@ -40,7 +40,7 @@ function pesquisar(termo) {
 
 // Função de filtro por categoria
 function filtrarPorCategoria(categoria) {
-    if (categoria === 'todos') { // Adicione uma opção "todos" ao seu HTML se desejar
+    if (categoria === 'todos') { 
         renderizarCards(todosOsFilmes);
         return;
     }
@@ -51,7 +51,7 @@ function filtrarPorCategoria(categoria) {
 // Função para limpar a busca e os filtros
 function limparFiltros() {
     document.getElementById('pesquisa').value = '';
-    document.getElementById('filtro').selectedIndex = 0; // Isso depende das suas opções no HTML
+    document.getElementById('filtro').selectedIndex = 0; 
     renderizarCards(todosOsFilmes);
 }
 
